@@ -1,0 +1,43 @@
+.video-title{
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+ width: 300px;
+ line-height: 24px;
+}
+.stats{
+  font-family: Roboto;
+  font-size: 14px;
+}
+.apple{
+  margin-top: 150px;
+  font-family: Roboto;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 200px;
+}
+.u:hover{
+  text-decoration: underline;
+  cursor: pointer;
+
+}
+.d{
+  font-family: Arial;
+  color: rgb(92, 91, 91);
+}
+.a{color: black;
+  font-size: 30px;
+  margin-right: 5px;
+}
+.b{
+  color: rgb(15, 248, 7);
+  line-height: 30px;
+}
+.c{
+  color: rgb(215, 34, 34);
+}
+
